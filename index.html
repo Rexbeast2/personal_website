@@ -1,222 +1,96 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  
-
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Responsive Portfolio Template">
-  <meta name="author" content="Suvrat Jain">
-  <title>Responsive Bootstrap Template for Portfolio</title>
-  <!-- Bootstrap core CSS -->
-  <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css" rel="stylesheet">
-  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous"> 
-  <link href="sty.css" rel="stylesheet">  
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="sty.css">
 </head>
 <body>
-  <div class="navbar navbar-inverse navbar-fixed-top" role="navigation" id="menu">
     <div class="container">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button> 
-        <a class="navbar-brand" href="#"><i class="fa fa-globe"></i></a>
+        <div class="word_split wrapper">
+        <span class="word word1"> Sukhveer </span>
+        <span class="word word2">Singh</span>
+        <span class="word word3">Personal</span>
+        <span class="word word4">Details</span>
+        <span class="word word5">Project</span>
+        <span class="word word6">History </span>
+        <span class="word word7">Education</span>
+        <span class="word word8">Personal</span>
+        <span class="word word9">Skills </span>
+        <span class="word word10">Technical</span>
+        <span class="word word11">Skills </span>
+        <span class="word word12">Get In </span>
+        <span class="word word13">Touch</span>
+          
+          <div class="bubble1">
+           <span class="the-arrow1"></span>
+            HI! <br/> I AM..
+         </div>
+        <div class="bubble2">
+           <span class="the-arrow2"></span>
+          <img src="https://dribbble.s3.amazonaws.com/users/10958/screenshots/271458/librarian.jpg"/>
+         </div>
+        <div class="bubble3">
+           <span class="the-arrow3"></span>
+          NATIONALITY:INDIAN<br/>
+          LOCATION:AHMDABAD<br/>
+          BIRTHDAY:02/10/2001<br/>
+          HOBBIES:READING<br/>
+          BASKETBALL<br/>
+          DEVELOPMENT<br/>
+         </div>
+        <div class="bubble4">
+           <span class="the-arrow4"></span>
+          GRAPHIC DESIGNER 2005 - 2007<br/>
+          Lorem Ipsum dolor sit amet. Lorem Ipsum dolor.<br/><br/>
+          CREATIVE DIRECTOR 2008 - Current
+          <br/>
+          Lorem Ipsum dolor sit amet.
+          
+         </div>
+        <div class="bubble5">
+           <span class="the-arrow5"></span>
+          HIGH SCHOOL<br/>
+          Lorem Ipsum dolor sit amet<br/>
+          May 2004, GPA 1.5<br/><br/>
+          UNIVERSITY <br/>
+          Lorem Ipsum dolor sit amet<br/>
+          July 2007, GPA 1.5
+          
+         </div>
+        <div class="bubble6">
+           <span class="the-arrow6"></span>
+          SOCIAL COMMITMENT<br/>
+          ORGANIZATION<br/>
+          CREATIVITY<br/>
+          COMMUNICATION<br/>
+          TEAMWORK<br/>
+         </div>
+        <div class="bubble7">
+           <span class="the-arrow7"></span>
+          PHOTOSHOP<br/>
+          ILLUSTRATOR<br/>
+          INDESIGN<br/>
+          FLASH<br/>
+          DREAMWEAVER<br/>
+          XHTML/CSS<br/>
+          JAVASCRIPT<br/>
+         </div>
+        <div class="bubble8">
+           <span class="the-arrow8"></span>
+          PHONE...<br/>
+          EMAIL...<br/>
+          WEBSITE... <br/>
+          TWITTER...<br/>
+          FACEBOOK...<br/>
+          DRIBBBLE...<br/>
+         </div>   
       </div>
-      <div class="collapse navbar-collapse">
-        <ul class="nav navbar-nav">
-          <li><a href="#">Home</a></li>
-          <li><a href="#about">About</a></li>
-          <li><a href="#portfolio">Portfolio</a></li>
-          <li><a href="#contact">Contact</a></li> 
-        </ul> 
-      </div><!--/.nav-collapse -->
-    </div>
-  </div>
-
-<div class="container-fluid splash" id="splash">
-<div class="container">
-  <img src="https://s-media-cache-ak0.pinimg.com/736x/71/9e/59/719e59481d2be40a77ab6c3386fc0a45--photoshop-illustrator-illustrator-tutorials.jpg" alt="Portrait of Mr. Roboto" class="profile-image"> 
-  <h1>HELLO!</h1> 
-  <h1 class="intro-text"><span class="lead" id="typed">I am a </span></h1>
-  <span class="continue"><a href="#about"><i class="fa fa-angle-down"></i></a></span>
-</div>
-</div>
-      <!-- About Section -->
-  <section class="success" id="about">
-      <div class="container">
-          <div class="row">
-              <div class="col-lg-12 text-center">
-                  <h2>About Me</h2>
-                  <hr class="star-light">
-              </div>
-          </div>
-          <div class="row">
-              <div class="col-lg-4 col-lg-offset-2">
-                  <p class="content-text">Hey there! I am a junior software developer based in Mumbai, India. I work with some of the popular front end technologies to create beautiful websites that get noticed. I seek experience to gain more knowledge in the web development field.
-                  </p>
-              </div>
-              <div class="col-lg-4">
-                  <p class="content-text">If you are in need of a beautiful simple website, I'm your guy. I look forward to talking to you soon!</p>
-           </div>
-              <div class="col-lg-8 col-lg-offset-2 text-center contact-button">
-                  <a href="#contact" class="btn btn-lg btn-outline">
-                      <i class="fa fa-envelope"></i> Contact Me
-                  </a>
-              </div>
-          </div>
-      </div>
-  </section>
-<!-- Portfolio -->
-  <div class="container-fluid portfolio-container-holder content-section" id="portfolio">
-  <div class="portfolio-container container">
-    <h1 class="text-center">My Portfolio</h1>
-    <hr class="star-portfolio">
-    <div class="row">
+         
+      </div><!--end container-->
       
-      <div class="col-md-6 col-xs-12 col-sm-6 portfolio-card-holder">
-        <div class=" portfolio-card">
-          <img src="https://cdn2.hubspot.net/hubfs/145335/responsive-vs-adaptive-design-compressor.jpg" alt="Portfolio" class="img-responsive portfolio-img">
-
-          <div class="portfolio-img-desc">
-            <p>Lorem ipsum dolor sit amet</p>
-          </div>			
-        </div>
-      </div>
-      <div class="col-md-6 col-xs-12 col-sm-6 portfolio-card-holder">
-        <div class=" portfolio-card">
-          <img src="https://cdn2.hubspot.net/hubfs/145335/responsive-vs-adaptive-design-compressor.jpg" alt="Portfolio" class="img-responsive portfolio-img">
-
-          <div class="portfolio-img-desc">
-            <p>Lorem ipsum dolor sit amet</p>
-          </div>			
-        </div>
-      </div>
-      <div class="col-md-6 col-xs-12 col-sm-6 portfolio-card-holder">
-        <div class=" portfolio-card">
-          <img src="https://cdn2.hubspot.net/hubfs/145335/responsive-vs-adaptive-design-compressor.jpg" alt="Portfolio" class="img-responsive portfolio-img">
-
-          <div class="portfolio-img-desc">
-            <p>Lorem ipsum dolor sit amet</p>
-          </div>			
-        </div>
-      </div>
-      <div class="col-md-6 col-xs-12 col-sm-6 portfolio-card-holder">
-        <div class=" portfolio-card">
-          <img src="https://cdn2.hubspot.net/hubfs/145335/responsive-vs-adaptive-design-compressor.jpg" alt="Portfolio" class="img-responsive portfolio-img">
-
-          <div class="portfolio-img-desc">
-            <p>Lorem ipsum dolor sit amet</p>
-          </div>			
-        </div>
-      </div>
-      <div class="col-md-6 col-xs-12 col-sm-6 portfolio-card-holder">
-        <div class=" portfolio-card">
-          <img src="https://cdn2.hubspot.net/hubfs/145335/responsive-vs-adaptive-design-compressor.jpg" alt="Portfolio" class="img-responsive portfolio-img">
-
-          <div class="portfolio-img-desc">
-            <p>Lorem ipsum dolor sit amet</p>
-          </div>			
-        </div>
-      </div>
-      <div class="col-md-6 col-xs-12 col-sm-6 portfolio-card-holder">
-        <div class=" portfolio-card">
-          <img src="https://cdn2.hubspot.net/hubfs/145335/responsive-vs-adaptive-design-compressor.jpg" alt="Portfolio" class="img-responsive portfolio-img">
-
-          <div class="portfolio-img-desc">
-            <p>Lorem ipsum dolor sit amet</p>
-          </div>			
-        </div>
-      </div>
       
-    </div>
-  </div>
-</div>
-<!-- Contact form -->
-<div class="container-fluid contact-me-container content-section" id="contact">
-  <div class="container">
-    <h1 class="intro-text text-center">Contact Me</h1>
-    <hr class="star-light">
-    <div class="row">
-      <div class="col-sm-12 col-md-12">
-        <div class="form-group">
-          <div class="input-group">
-            <div class="input-group-addon"><i class="fa fa-user"></i></div>
-            <input type="text" class="form-control" id="name" placeholder="Name">
-          </div>
-        </div>
-        
-        <div class="form-group">
-          <div class="input-group">
-            <div class="input-group-addon"><i class="fa fa-at"></i></div>
-            <input type="text" class="form-control" id="email" placeholder="Email ID">
-          </div>
-        </div>
-
-        <div class="form-group">
-          <div class="input-group">
-            <div class="input-group-addon"><i class="fa fa-phone"></i></div>
-            <input type="text" class="form-control" id="phone" placeholder="Phone Number">
-          </div>
-        </div>
-      </div>
-
-      <div class="col-sm-12">
-        <textarea class="form-control" rows="5" placeholder="Message"></textarea>
-      </div>
-    </div>
-
-    <div class="text-center">
-      <button class="btn btn-default submit-button btn-lg btn-primary"><i class="fa fa-paper-plane"></i> Send</button>
-    </div>
-  </div>
-</div>
-<!-- Footer -->
-<footer>
-  <div class="container footer-container">
-    <div class="row footer-row">
-      <div class="col-xs-12 col-sm-6 col-md-6 text-center">
-    <h4 class="text-center">Find me here</h4>
-         <address>
-           <strong><i class="fa fa-location-arrow"></i> Monsters Inc.</strong><br>Lorem ipsum dolor, sir amet,<br>Mumbai, India 400050<br><br>
-           <a  class="tel" href="tel:9999988888" type="tel"><i class="fa fa-mobile"></i><span> +91 9876543210</span></a>
-        </address>
-      </div>
-
-      <div class="col-xs-12 col-md-6 col-sm-6 social-section">
-        <div class="text-center">
-          <h4 class="text-center">Also, I can be found here</h4>
-      <div class="text-center social-buttons">
-          <a href="#" class="btn btn-default btn-lg social-button link-facebook"><i class="fa fa-facebook"></i>
-          </a>
-
-          <a href="https://codepen.io/simplysuvi/" class="btn btn-default btn-lg social-button link-codepen"><i class="fa fa-codepen"></i>
-          </a>
-
-          <a href="#" class="btn btn-default btn-lg social-button link-twitter"><i class="fa fa-twitter"></i>
-          </a>
-
-          <a href="https://www.linkedin.com/in/suvijainhere" class="btn btn-default btn-lg social-button link-linkedin"><i class="fa fa-linkedin"></i>
-          </a>
-        <a href="https://instagram.com/simplysuvi" class="btn btn-default btn-lg social-button link-instagram"><i class="fa fa-instagram"></i>
-          </a>
-        </div><hr class="footer-hr">
-          <h4 class="author">Made with <i class="fa fa-heart"></i> by <strong>Suvrat Jain</strong></h4>
-        </div>
-      </div>
-    </div><hr class="copyright">
-    <h4><i class="fa fa-copyright"></i> COPYRIGHTS 2017 ALL RIGHTS RESERVED</h4>
-  </div>
-</footer>
-
-  
-  <!-- Bootstrap core JavaScript -->
-  <script src="//code.jquery.com/jquery-1.10.2.min.js"></script>
-  <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
-  <script src="scrip.js"></script>
 </body>
 </html>
-
