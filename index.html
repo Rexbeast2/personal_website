@@ -7,7 +7,7 @@
     <title>Document</title>
     <link rel="stylesheet" href="sty.css">
 </head>
-<body>
+<body >
     <div class="container">
         <div class="word_split wrapper">
         <span class="word word1"> Sukhveer </span>
@@ -30,7 +30,7 @@
          </div>
         <div class="bubble2">
            <span class="the-arrow2"></span>
-          <img src="https://dribbble.s3.amazonaws.com/users/10958/screenshots/271458/librarian.jpg"/>
+          <img src="image.jpeg"/>
          </div>
         <div class="bubble3">
            <span class="the-arrow3"></span>
@@ -43,21 +43,22 @@
          </div>
         <div class="bubble4">
            <span class="the-arrow4"></span>
-          GRAPHIC DESIGNER 2005 - 2007<br/>
-          Lorem Ipsum dolor sit amet. Lorem Ipsum dolor.<br/><br/>
-          CREATIVE DIRECTOR 2008 - Current
-          <br/>
-          Lorem Ipsum dolor sit amet.
+          Web Scanner and Crawler<br/>
+          Keylogger<br/>
+          Backdoor<br/>
+          Snipping tools<br/>
+          ARP Spoofer and Detector<br/>
           
          </div>
         <div class="bubble5">
            <span class="the-arrow5"></span>
-          HIGH SCHOOL<br/>
-          Lorem Ipsum dolor sit amet<br/>
-          May 2004, GPA 1.5<br/><br/>
+          
           UNIVERSITY <br/>
-          Lorem Ipsum dolor sit amet<br/>
-          July 2007, GPA 1.5
+          Indian Institute of Information Technology and Management Gwalior<br/>
+          Joined, 2020<br/>
+          Current GPA 8.41 out 10<br/>
+          Course:B.tech Computer Science<br/>
+
           
          </div>
         <div class="bubble6">
@@ -70,22 +71,20 @@
          </div>
         <div class="bubble7">
            <span class="the-arrow7"></span>
-          PHOTOSHOP<br/>
-          ILLUSTRATOR<br/>
-          INDESIGN<br/>
-          FLASH<br/>
-          DREAMWEAVER<br/>
-          XHTML/CSS<br/>
+
+          ALGORITHM<br/>
+          DATA STRUCTURE<br/>
+          C/C++<br/>
+          PYTHON<br/>
+          HTML/CSS<br/>
           JAVASCRIPT<br/>
          </div>
         <div class="bubble8">
            <span class="the-arrow8"></span>
-          PHONE...<br/>
-          EMAIL...<br/>
-          WEBSITE... <br/>
-          TWITTER...<br/>
-          FACEBOOK...<br/>
-          DRIBBBLE...<br/>
+          PHONE: +91 9104300229<br/>
+          EMAIL: ssukhveer514@gmail.com<br/>
+          <a href="https://www.linkedin.com/in/sukhveersingh02/">LINKEDIN</a><br/>
+          <a href="https://github.com/Rexbeast2">GITHUB</a><br/>
          </div>   
       </div>
          
