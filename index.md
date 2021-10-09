@@ -1,95 +1,251 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="sty.css">
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>SUKHVEER</title>
+   <link rel="stylesheet" href="sty.css">
 </head>
-<body >
-    <div class="container">
-        <div class="word_split wrapper">
-        <span class="word word1"> Sukhveer </span>
-        <span class="word word2">Singh</span>
-        <span class="word word3">Personal</span>
-        <span class="word word4">Details</span>
-        <span class="word word5">Project</span>
-        <span class="word word6">History </span>
-        <span class="word word7">Education</span>
-        <span class="word word8">Personal</span>
-        <span class="word word9">Skills </span>
-        <span class="word word10">Technical</span>
-        <span class="word word11">Skills </span>
-        <span class="word word12">Get In </span>
-        <span class="word word13">Touch</span>
-          
-          <div class="bubble1">
-           <span class="the-arrow1"></span>
-            HI! <br/> I AM..
-         </div>
-        <div class="bubble2">
-           <span class="the-arrow2"></span>
-          <img src="image.jpeg"/>
-         </div>
-        <div class="bubble3">
-           <span class="the-arrow3"></span>
-          NATIONALITY:INDIAN<br/>
-          LOCATION:AHMDABAD<br/>
-          BIRTHDAY:02/10/2001<br/>
-          HOBBIES:READING<br/>
-          BASKETBALL<br/>
-          DEVELOPMENT<br/>
-         </div>
-        <div class="bubble4">
-           <span class="the-arrow4"></span>
-          Web Scanner and Crawler<br/>
-          Keylogger<br/>
-          Backdoor<br/>
-          Snipping tools<br/>
-          ARP Spoofer and Detector<br/>
-          
-         </div>
-        <div class="bubble5">
-           <span class="the-arrow5"></span>
-          
-          UNIVERSITY <br/>
-          Indian Institute of Information Technology and Management Gwalior<br/>
-          Joined, 2020<br/>
-          Current GPA 8.41 out 10<br/>
-          Course:B.tech Computer Science<br/>
+<body>
+   <a href="#main" class="skip-link">Skip to main content</a>
+<header>
+  <div class="container">
+    <h1>SSG</h1>
+    <h2>Portfolio Website</h2>
+    <p>
+      Made by <a href="https://twitter.com/sukhveer0210">Sukhveer Singh</a>
+    </p>
+    <a href="https://github.com/Rexbeast2/personal_website" class="link-github"><span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" aria-hidden="true" focusable="false">
+          <path d="M32 12.408l-11.056-1.607-4.944-10.018-4.944 10.018-11.056 1.607 8 7.798-1.889 11.011 9.889-5.199 9.889 5.199-1.889-11.011 8-7.798z"></path>
+        </svg>
+      </span>
+      Star on Github</a>
+  </div>
+</header>
+<nav>
+  <ul>
+    <li><a href="#about">About</a></li>
+    <li><a href="#guidelines">Education</a></li>
+    <li><a href="#contribute">Intereset</a></li>
+    <li><a href="#files">project</a></li>
+    <li><a href="#futurepro">Future project</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</nav>
 
+<main id="main" tabIndex="-1">
+  <div class="container">
+    <article id="about">
+      <section class="container">
+        <h2>About me </h2>
+        <p>
+          I am , <a>Sukhveer Singh</a> a secound year B.tech student from Indian Institute of Information Technology and Management Gwalior.
+          My major is in Computer Science and Engineering.
+          I am passionate about software and people.   
+        </p>
+        <p>
+          <strong>Style Stage</strong> seeks to rekindle that spirit by providing this page as
+          the base HTML for contributors - like you! - to re-style by submitting an alternate
+          stylesheet.
+        </p>
+      </section>
+      <section class="container">
+        <h2>Intereset in tech</h2>
+        <p>
           
-         </div>
-        <div class="bubble6">
-           <span class="the-arrow6"></span>
-          SOCIAL COMMITMENT<br/>
-          ORGANIZATION<br/>
-          CREATIVITY<br/>
-          COMMUNICATION<br/>
-          TEAMWORK<br/>
-         </div>
-        <div class="bubble7">
-           <span class="the-arrow7"></span>
+        </p>
+        <p>Some of Technology and Languages I am interested in </p>
+        <ul>
+          <li>C/C++</li>
+          <li>Python</li>
+          <li>Mysql</li>
+          <li>MongoDB</li>
+          <li>Datastructurces</li>
+          <li>Algorithms</li>
+          <li>Html</li>
+          <li>CSS</li>
+          <li>Javascript</li>
+          <li>Web development</li>
+          <li>Automation</li>
+          <li>Database Management</li>
+          <li>Cybersecurity</li>
+          <li>Cloud</li>
+          
+        </ul>
+        <p>
+          I am more into learning new . 
+          And I am fast learner.
+          
+        </p>
+        
+      </section>
+    </article>
+    <article id="guidelines">
+      <section class="container">
+        <h2>Education</h2>
+         <p></p>
+         <p>
+            Currently 2nd year student at IIITM<br> 
+            Current CGPA 8.41 out of 10<br>
+            Currently learning web development after that will learn graph database  
 
-          ALGORITHM<br/>
-          DATA STRUCTURE<br/>
-          C/C++<br/>
-          PYTHON<br/>
-          HTML/CSS<br/>
-          JAVASCRIPT<br/>
-         </div>
-        <div class="bubble8">
-           <span class="the-arrow8"></span>
-          PHONE: +91 9104300229<br/>
-          EMAIL: ssukhveer514@gmail.com<br/>
-          <a href="https://www.linkedin.com/in/sukhveersingh02/">LINKEDIN</a><br/>
-          <a href="https://github.com/Rexbeast2">GITHUB</a><br/>
-         </div>   
-      </div>
-         
-      </div><!--end container-->
+        </p>
+        
+        <a href="https://www.linkedin.com/in/sukhveersingh02/" class="link-guidelines">Linkedin</a>
+      </section>
+    </article>
+    <article id="contribute">
+      <section class="container">
+        <h2>Interest</h2>
+        <p></p>
+        <p>
+          I am interested in travelling a lot. <br>
+          Here take a look at some of the photos 
+         <a href="/">i clicked.</a>
+        </p>
+      </section>
       
+      <section class="container">
+        <h3>Recommended BOOKs</h3>
+         <p> I like to read. I have read about 120 books. Here are some of the books that I recommend everyone to read once </p>
+        <ol>
+          <li>
+            <div><strong>START WITH WHY</strong>: a book by SIMON SINEK. <br>
+            This book has given me a new direction of how should I think. Though this book is focus on startup founder 
+            I believe after reading it, that it can be helpfull to all people of all age </div>
+          </li>
+          <li>
+            <div><strong>THE GRAND DESIGN</strong>: a book by STEPHEN HAWKING AND LEONARD MLODINOW. <br>
+               This book is focused on space. And how the COSMOS is in the shape we know today. 
+            </div>
+          </li>
+          <li>
+            <div><strong>THE ALCHEMIST</strong>: a book by PANLO COELHO. <br>
+               I would recommend this book to anyone who is focusing towards goal but gets lost in middle or feel lack of motivation for going toward the goal. Its short book around 160 pages. Really fun to read.
+            </div>
+            
+          </li>
+          <li>
+            <div><strong>HOW TO WIN FRIENDS AND INFULENCE PEOPLE</strong>: a book by DALE CARNEGIE. <br>
+               This book on the list need no introduction. Its one of the best books I have read till date. And the ways taught in this book are real (speaking from personal experience). 
+               A must read book for everyone who want to be good at communication.
+
+            </div>
+          </li>
+          <li>
+            <div><strong> THE THEORY OF EVERYTHING </strong>: a book by STEPHEN HAWKING. <br>
+            This book is great book for anyone who is amused by the wonder of COSMOS. This book contain a breif information on most popular phenomians in nature like warm hole, black hole, sun, time, BIG BANG theory etc. 
+            </div>
+          </li>
+        </ol>
+      </section>
+     
+    </article>
+  </div>
+</main>
+<aside class="profile" aria-labelledby="profile-title">
+  <div class="container" id = "files">
+    <h4 id="profile-title">Project</h4>
+    <ul>
+      <li class="profile-title"><span>Title:</span> <span>Backdoor</span></li>
+      <blockquote>
+         <p>
+           <strong>ABOUT:</strong> 
+           <span style="font-weight:normal">
+               
+         </span><a href=""></a>
+         </p>
+       </blockquote>
+
+       <li class="profile-title"><span>Title:</span> <span>Keylogger</span></li>
+       <blockquote>
+          <p>
+            <strong>ABOUT:</strong> 
+            <span style="font-weight:normal">
+                
+          </span><a href=""></a>
+          </p>
+        </blockquote>
+ 
+        <li class="profile-title"><span>Title:</span> <span>Website crawler and Vulnerability Scanner</span></li>
+        <blockquote>
+           <p>
+             <strong>ABOUT:</strong> 
+             <span style="font-weight:normal">
+                 
+           </span><a href=""></a>
+           </p>
+         </blockquote>
+         <li class="profile-title"><span>Title:</span> <span>ARP Spoofer And Detector</span></li>
+         <blockquote>
+            <p>
+              <strong>ABOUT:</strong> 
+              <span style="font-weight:normal">
+                  
+            </span><a href=""></a>
+            </p>
+          </blockquote>
+   
+  
+
+    </ul>
+    <a href="https://github.com/Rexbeast2">Github</a>
+  </div>
+</aside>
+
+
+<aside id="styles">
+  <div class="container" id = "futurepro">
+    <h2>Future project</h2>
+    <ul class="features">
+      <li>
+        <span>
+          <a><u>Gscan</u><span aria-hidden="true"></span></a>
+          <span>Google Chrome extenstion for web Scanner and Crawler</span>
+        </span>
+      </li>
+      <li>
+        <span>
+          <a><u>Rtest</u><span aria-hidden="true"></span></a>
+          <span>sending encrpyted messages</span>
+        </span>
+      </li>
+   </ul>
+
+   
+
+    <a href="https://www.linkedin.com/in/sukhveersingh02/" class="link-allstyles">Contact for collabration</a>
+  </div>
+</aside>
+
+
+
+
+
+
+<footer class="page-footer" >
+  <div class="container" id ="contact">
+    <p>
       
+    </p>
+    <ul>
+      <li>
+        <a href="https://twitter.com/sukhveer0210" class="link-twittercontact">Contact on Twitter</a>
+      </li>
+      <li>
+        <a href="https://github.com/Rexbeast2" class="link-github"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" aria-hidden="true" focusable="false">
+            <path d="M32 12.408l-11.056-1.607-4.944-10.018-4.944 10.018-11.056 1.607 8 7.798-1.889 11.011 9.889-5.199 9.889 5.199-1.889-11.011 8-7.798z"></path>
+          </svg>
+          Star on Github</a>
+      </li>
+      <li><a href="https://www.linkedin.com/in/sukhveersingh02/" class="link-rss">Contact on Linkedin</a></li>
+      <li><a href="https://www.reddit.com/user/Healthy_Studio720" class="link-support">Contact on reddit</a></li>
+      <li><a  class="link-support">Email: ssukhveer514@gmail.com</a></li>
+    </ul>
+   
+  </div>
+</footer>
+
 </body>
 </html>
