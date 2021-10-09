@@ -45,7 +45,7 @@
           I am passionate about software and people.   
         </p>
         <p>
-     <--     <strong>Style Stage</strong> seeks to rekindle that spirit by providing this page as
+     <!--     <strong>Style Stage</strong> seeks to rekindle that spirit by providing this page as
           the base HTML for contributors - like you! - to re-style by submitting an alternate
           stylesheet.-->
         </p>
